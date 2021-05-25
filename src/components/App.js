@@ -12,7 +12,6 @@ class App extends Component {
     { name: 'Darjeeling', country: 'India' },
     { name: 'Tokyo', country: 'Japan' },
     { name: 'Lonavala', country: 'India' }
-
     ]
   }
 
